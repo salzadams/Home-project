@@ -1,6 +1,6 @@
         body {
             text-align: center;
-            background-color: pink;
+            /*background-color: pink;*/
         }
         
         h1 {
@@ -48,4 +48,21 @@
         
         .navigation-bar ul li a {
             padding: 14px 16px;
+        }
+
+        .happy-kids{
+            height: 600px;
+        }
+
+        .happy-kids .organisation-name{
+            padding-top: 100px;
+        }
+
+        .about{
+            height: 400px;
+        }
+
+        .about .about-text {
+            color: black;
+            text-align: center;
         }
