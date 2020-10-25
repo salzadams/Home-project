@@ -1,0 +1,68 @@
+        body {
+            text-align: center;
+            /*background-color: pink;*/
+        }
+        
+        h1 {
+            color: rgb(44, 44, 30);
+            font-weight: bold;
+            font-family: monospace;
+            font-size: 300%;
+            padding: 10px;
+        }
+        
+        h2 {
+            color: rgb(163, 19, 139);
+            font-weight: bold;
+            font-family: verdana;
+            font-size: 100%;
+            padding: 30px;
+        }
+        
+        p {
+            color: black;
+            font-size: 16px;
+            font-family: monospace;
+        }
+        
+        ul {
+            color: rgb(204, 117, 117);
+            list-style: none;
+        }
+        
+        .navigation-bar {
+            height: 50px;
+            background-color: rgb(87, 6, 73);
+        }
+        
+        .navigation-bar ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+        
+        .navigation-bar ul li {
+            display: inline;
+            background-color: bisque;
+        }
+        
+        .navigation-bar ul li a {
+            padding: 14px 16px;
+        }
+
+        .happy-kids{
+            height: 600px;
+        }
+
+        .happy-kids .organisation-name{
+            padding-top: 100px;
+        }
+
+        .about{
+            height: 400px;
+        }
+
+        .about .about-text {
+            color: black;
+            text-align: center;
+        }
